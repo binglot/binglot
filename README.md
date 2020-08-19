@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href= "https://twitter.com/bartinglot" alt="Bart's Twitter">
-    <img src="https://img.icons8.com/ios-filled/256/000000/twitter.svg" width="28px"/>
+    <img src="https://img.icons8.com/ios-filled/256/000000/twitter.svg" width="26px"/>
   </a>
   &emsp;
   <a href="https://linkedin.com/in/binglot" alt="Bart's LinkedIn">
