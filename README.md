@@ -11,6 +11,7 @@
   &emsp;
   <a href="https://linkedin.com/in/binglot" alt="Bart's LinkedIn">
     <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
+  </a>
   &emsp;
   <a href="https://osdfir.blogspot.com/" alt="Google's DFIR Blog">
     <img src="https://img.icons8.com/ios-filled/256/000000/blogger.svg" width="26px"/>
